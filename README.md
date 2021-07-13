@@ -1,7 +1,7 @@
 # Study-with-python
 
-  -ML<bh> 
+  - ML<bh> 
 
-  -DL<bh>
+  - DL<bh>
 
-  -Pytorch<bh>
+  - Pytorch<bh>
